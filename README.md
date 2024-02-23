@@ -1,5 +1,5 @@
 
-![aimp](pic.webp)
+<img src="preview/pic.webp" >
 
 ### Wallpapers for linux dots or any OS.
 
