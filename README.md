@@ -1,5 +1,5 @@
 
-<img src="preview/pic.webp" >
+<img src="preview/preview.png" >
 
 ### Wallpapers for linux dots or any OS.
 
