@@ -1,5 +1,5 @@
 
-<img src="preview/preview.png" >
+<img src="preview/git.png" >
 
 ### Wallpapers for linux dots or any OS.
 
